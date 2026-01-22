@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24in"
+   height="18in"
+   viewBox="0 0 609.60001 457.2"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="calendar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="881.05505"
+     inkscape:cy="405.17219"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="110.30866"
+       y="270.11479"
+       width="159.09903"
+       height="37.830213"
+       id="rect16" />
+    <rect
+       x="109.60155"
+       y="277.18586"
+       width="155.20994"
+       height="34.294679"
+       id="rect15" />
+    <rect
+       x="110.30866"
+       y="270.11479"
+       width="159.09903"
+       height="37.830213"
+       id="rect28" />
+    <rect
+       x="110.30866"
+       y="270.11479"
+       width="159.09903"
+       height="37.830213"
+       id="rect29" />
+    <rect
+       x="110.30866"
+       y="270.11479"
+       width="159.09903"
+       height="37.830213"
+       id="rect30" />
+    <rect
+       x="110.30866"
+       y="270.11479"
+       width="159.09903"
+       height="37.830213"
+       id="rect31" />
+    <rect
+       x="110.30866"
+       y="270.11479"
+       width="159.09903"
+       height="37.830213"
+       id="rect32" />
+    <rect
+       x="110.30866"
+       y="270.11479"
+       width="159.09903"
+       height="37.830213"
+       id="rect33" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-61.912533)">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1"
+       id="use6"
+       transform="translate(490.99337)"
+       inkscape:label="day 7 (saturday)"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path11"
+       id="use11-2"
+       transform="translate(490.99334)"
+       inkscape:label="vert sep 7"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1"
+       id="use5"
+       transform="translate(409.16115)"
+       inkscape:label="day 6 (friday)"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path11"
+       id="use15"
+       transform="translate(409.16112)"
+       inkscape:label="vert sep 6"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3"
+       id="use4"
+       transform="translate(81.832222)"
+       inkscape:label="day 5 (thursday)"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path11"
+       id="use14"
+       transform="translate(327.32889)"
+       inkscape:label="vert sep 5"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use2"
+       id="use3"
+       transform="translate(81.832232)"
+       inkscape:label="day 4 (wednesday)"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path11"
+       id="use13"
+       transform="translate(245.49667)"
+       inkscape:label="vert sep 4"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1"
+       id="use2"
+       transform="translate(163.66445)"
+       inkscape:label="day 3 (tuesday)"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path11"
+       id="use12"
+       transform="matrix(1,0,0,0.95820552,163.66433,7.8190326)"
+       inkscape:label="vert sep 3"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1"
+       id="use1"
+       transform="translate(82.36139)"
+       inkscape:label="day 2 (monday)"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path11"
+       id="use11"
+       transform="matrix(1,0,0,0.95824599,81.832223,7.8114606)"
+       inkscape:label="vert sep 2"
+       style="stroke-width:0.2;stroke-dasharray:none" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       id="rect1"
+       width="76.199997"
+       height="76.199997"
+       x="20.181622"
+       y="87.991997"
+       inkscape:label="day 1 (sunday)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.179853;stroke-dasharray:none"
+       d="M 17.36551,70.128176 V 168.77185"
+       id="path11"
+       inkscape:label="vert sep 1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path6"
+       id="use10"
+       transform="translate(0,56.670456)"
+       inkscape:label="task 5"
+       style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path6"
+       id="use9"
+       transform="translate(0,42.502844)"
+       inkscape:label="task 4"
+       style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path6"
+       id="use8"
+       transform="translate(0,28.335229)"
+       inkscape:label="task 3"
+       style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path6"
+       id="use7"
+       transform="translate(0,14.167614)"
+       inkscape:label="task 2"
+       style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="path6"
+       sodipodi:type="arc"
+       sodipodi:cx="10.006016"
+       sodipodi:cy="99.053169"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       sodipodi:start="0.017453293"
+       sodipodi:end="6.2831853"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 12.505635,99.0968 a 2.5,2.5 0 0 1 -2.5323432,2.45616 2.5,2.5 0 0 1 -2.4671808,-2.521607 2.5,2.5 0 0 1 2.510813,-2.47816 2.5,2.5 0 0 1 2.489092,2.499976 z"
+       inkscape:label="task 1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.198081;stroke-dasharray:none"
+       d="M 3.5780709,85.499521 H 592.11712"
+       id="path15"
+       inkscape:label="horiz sep top" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="path6-6"
+       sodipodi:type="arc"
+       sodipodi:cx="25.205542"
+       sodipodi:cy="77.73246"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       sodipodi:start="0.017453293"
+       sodipodi:end="6.2831853"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 27.705161,77.776091 a 2.5,2.5 0 0 1 -2.532343,2.456155 2.5,2.5 0 0 1 -2.467181,-2.521602 2.5,2.5 0 0 1 2.510813,-2.47816 2.5,2.5 0 0 1 2.489092,2.499976 z"
+       inkscape:label="day 1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.4882763,1.7350439)"
+       id="text15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect16);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       inkscape:label="sunday"><tspan
+         x="144.63699"
+         y="294.13538"
+         id="tspan8">Sunday</tspan></text>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="path28"
+       sodipodi:type="arc"
+       sodipodi:cx="106.6972"
+       sodipodi:cy="77.73246"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       sodipodi:start="0.017453293"
+       sodipodi:end="6.2831853"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 109.19682,77.776091 a 2.5,2.5 0 0 1 -2.53235,2.456155 2.5,2.5 0 0 1 -2.46718,-2.521602 2.5,2.5 0 0 1 2.51082,-2.47816 2.5,2.5 0 0 1 2.48909,2.499976 z"
+       inkscape:label="day 2" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,76.003396,1.7350439)"
+       id="text28"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect28);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       inkscape:label="monday"><tspan
+         x="142.42344"
+         y="294.13538"
+         id="tspan9">Monday</tspan></text>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="path29"
+       sodipodi:type="arc"
+       sodipodi:cx="188.71811"
+       sodipodi:cy="77.73246"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       sodipodi:start="0.017453293"
+       sodipodi:end="6.2831853"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 191.21773,77.776091 a 2.5,2.5 0 0 1 -2.53234,2.456155 2.5,2.5 0 0 1 -2.46719,-2.521602 2.5,2.5 0 0 1 2.51082,-2.47816 2.5,2.5 0 0 1 2.48909,2.499976 z"
+       inkscape:label="day 3" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,158.02425,1.7350439)"
+       id="text29"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect29);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       inkscape:label="tuesday"><tspan
+         x="139.2138"
+         y="294.13538"
+         id="tspan10">Tuesday</tspan></text>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="path30"
+       sodipodi:type="arc"
+       sodipodi:cx="270.73901"
+       sodipodi:cy="77.73246"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       sodipodi:start="0.017453293"
+       sodipodi:end="6.2831853"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 273.23863,77.776091 a 2.5,2.5 0 0 1 -2.53234,2.456155 2.5,2.5 0 0 1 -2.46718,-2.521602 2.5,2.5 0 0 1 2.51081,-2.47816 2.5,2.5 0 0 1 2.48909,2.499976 z"
+       inkscape:label="day 4" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,244.27851,1.7350439)"
+       id="text30"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect30);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       inkscape:label="wednesday"><tspan
+         x="119.68904"
+         y="294.13538"
+         id="tspan11">Wednesday</tspan></text>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="path31"
+       sodipodi:type="arc"
+       sodipodi:cx="352.75974"
+       sodipodi:cy="77.73246"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       sodipodi:start="0.017453293"
+       sodipodi:end="6.2831853"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 355.25935,77.776091 a 2.5,2.5 0 0 1 -2.53234,2.456155 2.5,2.5 0 0 1 -2.46718,-2.521602 2.5,2.5 0 0 1 2.51081,-2.47816 2.5,2.5 0 0 1 2.4891,2.499976 z"
+       inkscape:label="day 5" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,323.65356,1.7350439)"
+       id="text31"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       inkscape:label="thursday"><tspan
+         x="134.2789"
+         y="294.13538"
+         id="tspan12">Thursday</tspan></text>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="path32"
+       sodipodi:type="arc"
+       sodipodi:cx="434.25119"
+       sodipodi:cy="77.73246"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       sodipodi:start="0.017453293"
+       sodipodi:end="6.2831853"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 436.75081,77.776091 a 2.5,2.5 0 0 1 -2.53234,2.456155 2.5,2.5 0 0 1 -2.46718,-2.521602 2.5,2.5 0 0 1 2.51081,-2.47816 2.5,2.5 0 0 1 2.48909,2.499976 z"
+       inkscape:label="day 6" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,403.55775,1.7350439)"
+       id="text32"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       inkscape:label="friday"><tspan
+         x="152.81408"
+         y="294.13538"
+         id="tspan13">Friday</tspan></text>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="path33"
+       sodipodi:type="arc"
+       sodipodi:cx="516.27191"
+       sodipodi:cy="77.73246"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       sodipodi:start="0.017453293"
+       sodipodi:end="6.2831853"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 518.77153,77.776091 a 2.5,2.5 0 0 1 -2.53234,2.456155 2.5,2.5 0 0 1 -2.46718,-2.521602 2.5,2.5 0 0 1 2.51081,-2.47816 2.5,2.5 0 0 1 2.48909,2.499976 z"
+       inkscape:label="day 7" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,485.57865,1.7350439)"
+       id="text33"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect33);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       inkscape:label="saturday"><tspan
+         x="136.49245"
+         y="294.13538"
+         id="tspan14">Saturday</tspan></text>
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.291223;stroke-dasharray:none;-inkscape-stroke:hairline"
+       id="rect34"
+       width="588.17462"
+       height="118.88975"
+       x="3.8513677"
+       y="70.301117" />
+  </g>
+</svg>
