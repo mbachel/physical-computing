@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R3, R6",2," Photoresistor"
+"R4, R5",2,"1 kΩ Resistor"
+"C1, C2",2,"10 uF, 50 V Polarized Capacitor"
+"BAT1",1," 9V Battery"
+"U2",1," 5V Regulator [LM7805]"
+"U3",1," H-bridge Motor Driver"
+"M1, M2",2," Hobby Gearmotor"
