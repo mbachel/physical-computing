@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"BAT1",1," 9V Battery"
+"SERVO1",1,"Positional Micro Servo"
+"U2",1," 5V Regulator [LM7805]"
+"C1, C2",2,"10 uF, 50 V Polarized Capacitor"
+"Rpot1",1,"250 kΩ Potentiometer"
