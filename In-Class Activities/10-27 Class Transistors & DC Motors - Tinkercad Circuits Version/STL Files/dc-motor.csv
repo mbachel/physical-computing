@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"M1",1," DC Motor"
+"C1",1,"0.1 uF Capacitor"
+"D1",1," Diode"
+"T1",1," NPN Transistor (BJT)"
+"BAT1",1," 9V Battery"
+"R1",1,"1 kΩ Resistor"
+"Rpot1",1,"250 kΩ Potentiometer"
