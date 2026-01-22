@@ -73,12 +73,7 @@ This repository is organized as a set of dated prep-work and in-class exercises,
 
 ### Videos / demos
 
-- Graduate project demo video:
-  - [Projects/Project 7 Graduate Project/graduate project.mp4](Projects/Project%207%20Graduate%20Project/graduate%20project.mp4)
-- Undergraduate project demo video:
-  - [Projects/Project 6 Undergraduate Project/Special Files/videos/demo video.mp4](Projects/Project%206%20Undergraduate%20Project/Special%20Files/videos/demo%20video.mp4)
-- Roving robot demo video:
-  - [Projects/Project 5 Builing a Roving Robot/robot-tinkercad-physical.mp4](Projects/Project%205%20Builing%20a%20Roving%20Robot/robot-tinkercad-physical.mp4)
+Please request demos from me if interested.
 
 ## How to use this repository
 
